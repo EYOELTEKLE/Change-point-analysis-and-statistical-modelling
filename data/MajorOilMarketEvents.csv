@@ -1,0 +1,13 @@
+Event,Type,StartDate,Description
+"OPEC Production Cut","OPEC Decision","2016-11-30","OPEC agrees to cut oil production, impacting global prices."
+"COVID-19 Pandemic Declared","Global Health Event","2020-03-11","WHO declares COVID-19 a pandemic, causing oil demand shock."
+"US Shale Boom","Economic Shock","2014-06-01","Rapid increase in US shale oil production."
+"Arab Spring","Geopolitical Event","2011-01-25","Political unrest in the Middle East affects oil supply."
+"Russia-Ukraine Conflict Escalation","Geopolitical Event","2022-02-24","Russian invasion of Ukraine triggers oil price surge."
+"2010 Deepwater Horizon Spill","Environmental Disaster","2010-04-20","Major oil spill in the Gulf of Mexico."
+"Iran Sanctions Tightened","Geopolitical Event","2012-01-23","EU imposes embargo on Iranian oil exports."
+"OPEC+ Formation","OPEC Decision","2016-12-10","OPEC and non-OPEC countries form OPEC+ alliance."
+"Global Financial Crisis","Economic Shock","2008-09-15","Lehman Brothers collapse triggers global recession."
+"Saudi Oil Facility Attack","Geopolitical Event","2019-09-14","Drone attacks on Saudi Aramco facilities."
+"US-Iran Tensions Peak","Geopolitical Event","2020-01-03","US airstrike kills Iranian general, raising tensions."
+"Libyan Civil War","Geopolitical Event","2011-02-17","Civil war in Libya disrupts oil exports."
